@@ -18,7 +18,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
 
@@ -34,7 +34,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Básico</small>
               </div>
             </article>
 
@@ -42,7 +42,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediário</small>
               </div>
               
             </article>
@@ -51,7 +51,47 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Angular 8+</h4>
+                <small className='text-light'>Básico</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Primefaces</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Figma</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>AdobeXD</h4>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Adobe Photoshop</h4>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
           </div>
@@ -65,7 +105,15 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Básico</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>SpringMVC</h4>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
 
@@ -81,7 +129,15 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Toomcat Server </h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediário</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>GitHub </h4>
+                <small className='text-light'>Básico</small>
               </div>
             </article>
           </div>

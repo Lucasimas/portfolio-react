@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/eu-removebg-preview.png"; //tem q ser jpg
+import ME from "../../assets/Imagem2-removebg-preview.png"; //tem q ser jpg
 
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
@@ -21,11 +21,10 @@ const About = () => {
 
         <div className="about__content">
           <div className="about__cards">
-
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiências</h5>
-              <small>1 ano de Experiência</small>
+              <small>3</small>
             </article>
 
             <article className="about__card">
@@ -39,18 +38,22 @@ const About = () => {
               <h5>Projetos</h5>
               <small>2</small>
             </article>
-            
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-            distinctio repellendus cumque ad, voluptates libero voluptate
-            officia, recusandae explicabo laudantium magnam eius dolore facilis
-            aspernatur assumenda illum? Ratione, beatae. Aut!
+            Sou Lucas Simas, nascido em Assis -interior de SP -, tenho 22 anos,
+            graduado em Sistemas de Informação pela UNINOVE, moro em
+            Carapicuíba-SP e sou um grande intusiasta do mundo Front-end! :D
+            <br />
+            <br />
+            Ao longo da minha jornada no mundo de TI atuando como Desenvolvedor,
+            pude aprimorar meus conhecimentos técnicos com grandes projetos de
+            clientes como Bradesco e Hospital das Clícnicas (HCRP-USP).
           </p>
 
-          <a href="#contact" className="btn btn-primary">Vamos conversar!</a>
-
+          <a href="#contact" className="btn btn-primary">
+            Saiba mais!
+          </a>
         </div>
       </div>
     </section>

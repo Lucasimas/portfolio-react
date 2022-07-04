@@ -1,9 +1,9 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG1 from "../../assets/todolist.jpg";
+import IMG2 from "../../assets/PortmageDef.jpg";
+import IMG3 from "../../assets/UiUxDesign.jpg";
+
 
 // Não usar essas imagens em produção
 
@@ -12,34 +12,28 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dash & Fin Visualization',
-    github: 'https://github.com/Lucasimas',
-    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Lista de Tarefas - React',
+    github: 'https://github.com/Lucasimas/lista-de-tarefas',
+   
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency Dash & Fin Visualization',
-    github: 'https://github.com/Lucasimas',
-    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Portfolio Pessoal - React',
+    github: 'https://github.com/Lucasimas/portfolio-react',
+    
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency Dash & Fin Visualization',
-    github: 'https://github.com/Lucasimas',
-    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Portfolio UX/UI - Case Covid-19',
+    github: 'https://medium.com/@lucassimas_89215/o-in%C3%ADcio-de-um-ux-ui-designer-o-primeiro-portif%C3%B3lio-1db955b2c431'
+    
   },
 
-  {
-    id: 4,
-    image: IMG4,
-    title: 'Crypto Currency Dash & Fin Visualization',
-    github: 'https://github.com/Lucasimas',
-    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
-  },
+  
 ]
 
 const Portfolio = () => {
@@ -62,8 +56,9 @@ const Portfolio = () => {
     
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank"> GitHub </a>
-                <a href={demo} className="btn btn-primary" target="_blank"> Live Demo </a>
+                <a href={github} className="btn" target="_blank"> Dê uma olhada! </a>
+              
+                
               </div>
             </article>
             )

@@ -38,7 +38,8 @@
 .service__list li {
     display: flex;
     gap: 1rem;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.2rem;
+    align-items: baseline;
 }
 
 .service__list-icon {
