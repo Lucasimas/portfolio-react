@@ -38,14 +38,14 @@ const Contact = () => {
             <h4>E-mail</h4>
             <h5>Lucas.bsimas@hotmail.com</h5>
             
-            <a href="mailto:lucas.bsimas@hotmail.com" target="_blank">Mande uma mensagem!</a>
+            <a href="mailto:lucas.bsimas@hotmail.com" target="_blank" >Mande uma mensagem!</a>
           </article>
 
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+55 (11)99524-7767</h5>
-            <a href="https://api.whatsapp.com/send?phone=+5511995247767" target="_blank">Mande uma mensagem!</a>
+            <a href="https://wa.me/+5511995247767" target="_blank" >Mande uma mensagem!</a>
           </article>
 
           <article className="contact__option">

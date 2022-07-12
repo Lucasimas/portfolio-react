@@ -16,7 +16,6 @@ const Footer = () => {
         <li><a href="#experience">Esperiências</a></li>
         <li><a href="#services">Serviços</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testemunhas</a></li>
         <li><a href="#contact">Contato</a></li>
       </ul>
 
