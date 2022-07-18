@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.a7dfab83.css",
+    "main.js": "/portfolio-react/static/js/main.1af89da2.js",
+    "static/media/Imagem2-removebg-preview.png": "/portfolio-react/static/media/Imagem2-removebg-preview.834e0020c9dd1930c247.png",
+    "static/media/Imagem3-removebg.png": "/portfolio-react/static/media/Imagem3-removebg.b088d2cc733529048fdd.png",
+    "static/media/CV - Dev. Web - Lucas Simas.pdf": "/portfolio-react/static/media/CV - Dev. Web - Lucas Simas.14d82b3cea1c8a71f086.pdf",
+    "static/media/PortmageDef.jpg": "/portfolio-react/static/media/PortmageDef.5b7640ea076230316f5b.jpg",
+    "static/media/UiUxDesign.jpg": "/portfolio-react/static/media/UiUxDesign.c96c3ac04f97ffd72796.jpg",
+    "static/media/todolist.jpg": "/portfolio-react/static/media/todolist.865304a2faa4e06f22c5.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.a7dfab83.css.map": "/portfolio-react/static/css/main.a7dfab83.css.map",
+    "main.1af89da2.js.map": "/portfolio-react/static/js/main.1af89da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7dfab83.css",
+    "static/js/main.1af89da2.js"
+  ]
+}
